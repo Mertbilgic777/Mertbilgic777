@@ -1,10 +1,11 @@
-## Welcome to Mert Bilgiç's GitHub 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=11F72D&center=true&vCenter=true&multiline=true&width=438&lines=I+am+a+Web+Developer;I+am+a+Computer+Engineering+Student;I+am+a+Backend+Develope)](https://git.io/typing-svg)
+## Welcome to Mert Bilgiç's GitHub <img src="./assets/gifs/handwave.gif" width="20" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=11F72D&width=438&lines=I+am+a+Web+Developer;I+am+a+Computer+Engineering+Student;I+am+a+Backend+Developer)](https://git.io/typing-svg)
 
 ### <img src="./assets/gifs/hacker.gif" width="40" alt="About" /> **About**
 
 <samp>
-I’m currently learning Java Spring and  <br>
+I’m currently learning Java Spring and Angular.<br>
+I am advancing in the AI in academy.<br>
 How to reach me: <a href="mailto:amertbilgic94@gmail.com">mertbilgic94@gmail.com</a> <br>
 Linkedin: <a href="https://www.linkedin.com/in/cengrmertbilgic" target="_blank">Mert Bilgiç</a> <br>
 </samp>
