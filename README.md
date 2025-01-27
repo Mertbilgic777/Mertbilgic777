@@ -1,5 +1,5 @@
 ## Welcome to Mert Bilgiç's GitHub <img src="./assets/gifs/handwave.gif" width="20" />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=100&color=11F72D&width=438&lines=I+am+a+Web+Developer;I+am+a+Computer+Engineering+Student;I+am+a+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=700&pause=40&color=1DF738&width=435&lines=01010101010010101010101010100101;I+am+Computer+Engineering+Student;10101010101010010111001010101010)](https://git.io/typing-svg)
 
 ### <img src="./assets/gifs/hacker.gif" width="40" alt="About" /> **About**
 
